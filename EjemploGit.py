@@ -1,2 +1,5 @@
-print('Hola Mundo!')
-A  = 0
+def main():
+    A = 7
+    B = 9.0
+    return A*B
+print(main())
